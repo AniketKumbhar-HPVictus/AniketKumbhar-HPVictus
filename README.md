@@ -5,24 +5,25 @@
 - I'M Very fast ⏩ learner, with clear mind.
 - 📫 How to reach me. My personal contact,Phone number:-7758026152,Email:-aniketkumbhar6152@gmail.com
 -🤹‍♂🖥 Skills
--Frontend Frameworks:- React, Angular, Vue.js.
--Version Control:- Git hub.
--Backend:- Python.
--Backend Frameworks:- Express.js, Ruby, Django, Flask, ASP.NET, Express.js.
--Cloud Platforms:-  Google Cloud,
--Programming Languages:- Python.
--Technologies:- Artificial Intelligence,Cloud Computing.
--AI Technology Libraries:- OpenAI's GPT.
--Tools:- VS Studio, Android Studio.
--ommunication.
--Problem Solving.
--Creativity.
--TeamWork.
--Time Management.
--Project Management.
--Decision Making.
--Fast Learner.
-<!---
-AniketKumbhar-HPVictus/AniketKumbhar-HPVictus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ -Frontend Frameworks:- React, Angular, Vue.js.
+ -Version Control:- Git hub.
+ -Backend:- Python.
+ -Backend Frameworks:- Express.js, Ruby, Django, Flask, ASP.NET, Express.js.
+ -Cloud Platforms:-  Google Cloud.
+ -Programming Languages:- Python.
+ -Technologies:- Artificial Intelligence,Cloud Computing.
+ -AI Technology Libraries:- OpenAI's GPT.
+ -Tools:- VS Studio, Android Studio.
+ -ommunication.
+ -Problem Solving.
+ -Creativity.
+ -TeamWork.
+ -Time Management.
+ -Project Management.
+ -Decision Making.
+ -Fast Learner.
+ <!---
+ AniketKumbhar-HPVictus/AniketKumbhar-HPVictus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ You can click the Preview link to take a look at your changes.
 --->
+ 
