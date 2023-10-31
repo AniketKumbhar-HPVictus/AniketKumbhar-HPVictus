@@ -8,7 +8,6 @@
  -Frontend Frameworks:- React, Angular, Vue.js.
  -Version Control:- Git hub.
  -Backend:- Python.
- -Backend Frameworks:- Express.js, Ruby, Django, Flask, ASP.NET, Express.js.
  -Cloud Platforms:-  Google Cloud.
  -Programming Languages:- Python.
  -Technologies:- Artificial Intelligence,Cloud Computing.
